@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/f14d1e7e-f8ca-4a7d-8483-640cf0dd4ca2)![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sufyan Hashmi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.maW7H6nl8--iS-xH9Nk4ZwHaHa?rs=1&pid=ImgDetMain"> 
+<img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/011/354/494/original/young-man-are-doing-coding-3d-cartoon-character-illustration-png.png">
 
 
 
