@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **sufyanhashmi01@gmail.com**
 
-- ⚡ Fun fact **I think I am racist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
